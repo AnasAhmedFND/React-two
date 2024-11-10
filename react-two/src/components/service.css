@@ -1,0 +1,36 @@
+.card1{
+    border: 1px solid black;
+    width: 300px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.card1:hover{
+    background-color: blue;
+    color: white;
+    
+}
+.image{
+    width: 60px;
+    height: 60px;
+}
+.heading{
+    font-size: 22px;
+
+}
+.service{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    justify-content: space-around;
+    padding-bottom: 60px;
+}
+.discription{
+    font-size: 18px;
+}
+.mark{
+    font-size: 30px;
+    font: bold;
+    color: rgb(21, 21, 104);
+   
+}

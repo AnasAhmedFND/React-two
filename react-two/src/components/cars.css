@@ -1,0 +1,50 @@
+.cars-slider{
+    text-align: center;
+    
+    padding-top: 60px;
+    background-color: rgb(243, 243, 248);
+}
+.newest{
+    font-size: 40px;
+    color:rgb(72, 72, 79) ;
+}
+.checkout{
+    color: rgb(130, 130, 139);
+    position: relative;
+    top: 15px;
+}
+.underline{
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+    border-color: blue;
+    
+
+}
+.car-model{
+    display: flex;
+    
+    justify-content: center;
+    gap: 7%;
+    
+}
+.car-model{
+    margin-top: 6%;
+}
+.car-img img{
+    width: 500px;
+    height: 300px;
+}
+.right{
+    
+    text-align: start;
+    color: rgb(121, 121, 123);
+}
+.bmw{
+    color:rgb(72, 72, 79) ;
+}
+.button{
+    background-color: blue;
+    padding: 8px 16px;
+    position: relative;
+    bottom: 15%;
+}
