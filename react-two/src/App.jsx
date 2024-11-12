@@ -9,6 +9,8 @@ import Cars from './components/Cars'
 import Featured from './components/Featured'
 import Fcars from './components/Fcars'
 import Client from './components/Client'
+import Textimg from './components/Textimg'
+import Futtar from './components/Futtar'
 
 
 function App() {
@@ -24,6 +26,8 @@ function App() {
       <Fcars />
       <Fcars />
       <Client/>
+      <Textimg/>
+      <Futtar/>
      
     </>
   )

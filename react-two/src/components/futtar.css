@@ -1,0 +1,11 @@
+.futter{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(40, 40, 111);
+    color: white;
+    padding-top:4%;
+    padding-bottom: 5%;
+}
+.ferrari{
+    margin-top: 7%;
+}
