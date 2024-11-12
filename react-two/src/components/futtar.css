@@ -1,11 +1,28 @@
 .futter{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(40, 40, 111);
+   
     color: white;
     padding-top:4%;
     padding-bottom: 5%;
 }
 .ferrari{
     margin-top: 7%;
+}
+.fmain{
+    background-color: rgb(40, 40, 111);
+}
+.butt{
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+    border-top: 1px solid white;
+    color: rgb(197, 197, 212);
+    width: 90%;
+    margin-left: 5%;
+    border-color: rgb(178, 178, 203);
+
+}
+.social-img{
+    display: flex;
 }
