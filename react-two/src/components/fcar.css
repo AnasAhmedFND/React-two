@@ -1,0 +1,25 @@
+.cardses{
+    width: 300px;
+
+   
+}
+
+.all-car{
+display: flex;
+justify-content: space-around;
+}
+.car-item{
+    border: 1px solid black;
+    padding-top: 40px;    
+}
+.pik{
+    padding-top: 4px;
+}
+
+.dis1{
+    border-top: 1px solid black;
+    padding: 5px;
+}
+.all-car{
+    margin-top: 6%;
+}
